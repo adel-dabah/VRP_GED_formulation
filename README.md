@@ -33,6 +33,7 @@ Where:
 
 **Theorem 1 verification** is printed for every solver result as `Thm1_err`. A value of `0.00e+00` confirms the identity holds exactly.
 
+
 ---
 
 ## Quick Start
