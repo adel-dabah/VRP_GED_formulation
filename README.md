@@ -33,6 +33,7 @@ Where:
 
 **Theorem 1 verification** is printed for every solver result as `Thm1_err`. A value of `0.00e+00` confirms the identity holds exactly.
 
+<img width="2685" height="1191" alt="vrp_ged_A-n34-k5" src="https://github.com/user-attachments/assets/fe6fb69c-26e6-4c13-996a-9314c5de96e5" />
 
 ---
 
